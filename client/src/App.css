@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+  }
+
+.sega {
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #0ccac4;
+}
+
+.mid h3 {
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 4rem;
+  transform: translate(-50%, -50%);
+}
+
+.modal {
+  /* font-family: 'Times New Roman'; */
+  font-family: 'Baloo Chettan', cursive;
+  /* color: black; */
+  color: rgba(7,27,82,1)
+}
+
+.search-style {
+  /* font-family: 'Times New Roman'; */
+  font-family: 'Baloo Chettan', cursive;
+  color: black;
+}
+
+.input-border {
+  color: black;
+}
