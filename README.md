@@ -1,22 +1,8 @@
-# Title of Project - TBD
-
-Welcome to Project 2
-
+# MIXR
+![mixr](/assets/images/mainpage.png)
 ## Description
-A Favor-esque liquor delivery app where a user can order alcoholic beverages for delivery. Users will be able to find recipes for cocktails and order ingredients through our personal distribution service. Users will also be able to rate drinks as well as save favorites.
-
-
-## Sketch
-**Mockup of front page**
-
-![Index](assets/images/index.png)
-
-**Mockup of a search page**
-
-![Results Page](assets/images/results.png)
-
+Mixr is a drink application that will let you search for any ingredient in a cocktail and will give you back a list of cocktails you can make with that ingredient. The future plans would be to implement a button to add all the ingredients to your amazon shopping cart for same day delivery to where ever you may be.
 ## Technologies Used
-HTML, CSS, JavaScript, jQuery, React, Tachyons, React-Particles, React-Tilt, MySQL, Express, Node, Sequelize
-TheCocktailDB API
-## Issues
-Issues will be assigned as we flesh out our ideas.
+HTML, CSS, JavaScript, jQuery, React, Tachyons, React-Particles, React-Tilt, MySQL, Express, Node, Sequelize TheCocktailDB API
+## Team Members
+Aaron Smith, Preston Patterson, Kellan Benn, Pau Sang
