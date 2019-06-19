@@ -1,5 +1,5 @@
 # MIXR
-![mixr](/assets/images/mainpage.png)
+![mixr](assets/images/mainpage.PNG)
 ## Description
 Mixr is a drink application that will let you search for any ingredient in a cocktail and will give you back a list of cocktails you can make with that ingredient. The future plans would be to implement a button to add all the ingredients to your amazon shopping cart for same day delivery to where ever you may be.
 ## Technologies Used
